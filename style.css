@@ -1,0 +1,49 @@
+h2 {
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.line {
+    width: 50px;
+    height: 4px;
+    margin: 8px auto;
+    background-color: black;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(powderblue, lightpink);
+}
+
+#app3 {
+    width: 100%;
+    height: 800px;
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+#chatbot{
+    width: 100%;
+    height: 800px;
+}
+#myCarousel{
+    background-color: lightsteelblue;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 15px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}
